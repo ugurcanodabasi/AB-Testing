@@ -1,4 +1,3 @@
-@@ -0,0 +1,50 @@
 <img width="1376" alt="Screenshot 2024-02-12 at 17 48 30" src="https://github.com/melisacevik/AB-Testing/assets/113050206/8860a8cb-f920-4faf-a582-6c45ac985010">
 
 
